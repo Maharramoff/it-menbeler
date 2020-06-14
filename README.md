@@ -62,6 +62,9 @@ Python|[CIK Academy - Python Dərsləri](https://www.youtube.com/playlist?list=P
 Python|[Mehdi Mehdizadə - Python Dərsləri](https://www.youtube.com/playlist?list=PLOJA5SN2RGBLOE7LHgI2abt9_P1c8xcvs)
 Python|[Kərim Tahiroğlu - Python Dərsləri](https://www.youtube.com/playlist?list=PLue2x3wkxo3p4nhZSkqOTbU-SvGMUYjx9)
 Python|[Leyla İbrahimxəlilova - Python Dərsləri](https://www.youtube.com/playlist?list=PLuzX_wwPfDndELVRB-_pHmYI-7jBDNEZ9)
+C++|[CodeAz - Sürətli C++ Proqramlaşdırma Dərsləri](https://www.youtube.com/playlist?list=PLHIXfE3TaUH4OumKBQFciHhekWx_CqgDS)
+C++|[Kodera - C++ Proqramlaşdırma dərsləri](https://www.youtube.com/playlist?list=PLUhhpe5duTwy0nco2txl0TZT0VtF1TbJ1)
+C++|[Əhməd Sadıxov - C++ proqramlaşdırma dili](https://www.youtube.com/watch?v=ycTKQuwcPFo&list=PL3EDCDnwr7B1DP4A2zoYzBoPzFDBapQpe)
 
 
 > Bütün kitab və linklər hər kəsə açıq olan müxtəlif internet mənbələrdən toplanmışdır. Əgər hər hansı hüququnuzun pozulduğunu düşünür və ya ümumiyyətlə sizə aid heç bir mənbənin burada yayımlanmasını istəmirsinizsə [bura keçərək issue yaradın](https://github.com/Maharramoff/it-menbeler/issues/new) və ya github.maharramoff@gmail.com ünvanına yazın.
