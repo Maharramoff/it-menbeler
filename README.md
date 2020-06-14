@@ -5,8 +5,8 @@ Mündəricat
 -----------------
 
 - [Kitablar](#kitablar)
-- [Bloqlar](#bloqlar)
 - [Youtube](#youtube)
+- [Bloqlar](#bloqlar)
 
 ### Kitablar
 Mövzu|Kitab|Yüklə
@@ -23,6 +23,30 @@ Scratch 2|[Scratch 2 Proqramlaşdırma dili, 1-ci hissə (A.Qəhrəmanov, S.Sad�
 Scratch 2|[Scratch 2 Proqramlaşdırma dili, 2-ci hissə (A.Qəhrəmanov, S.Sadıqova, D.Hacıyeva, K.Rəcəbova, İ.Cəfərova)](src/books/Scratch%202.0%20Proqramlaşdırma%20Dili,%202-ci%20Hissə.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/Scratch%202.0%20Proqramlaşdırma%20Dili,%202-ci%20Hissə.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
 PHP|[PHP Web Proqramlaşdırma dili, 2-ci Buraxılış (Şükür Hüseynov)](src/books/PHP%20Web%20Proqramlaşdırma%20dili,%202-ci%20Buraxılış.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/PHP%20Web%20Proqramlaşdırma%20dili,%202-ci%20Buraxılış.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
 Python|[Python Proqramlaşdırma dili (Abdulla Qəhrəmanov, İlahə Cəfərova)](src/books/Python%20Proqramlaşdırma%20Dili.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/Python%20Proqramlaşdırma%20Dili.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
+
+### Youtube
+Mövzu|Kanal/PlayList
+--|--
+Python|[Developers Azerbaijan - Python Əsasları](https://www.youtube.com/playlist?list=PLOtqjSKrI5Hy3MYfLT9xUZnESj-vLHWId)
+Python|[Kodera - Python dərsləri](https://www.youtube.com/playlist?list=PLUhhpe5duTwyX6gVP54umpMYFVRRYIm1e)
+Python|[CIK Academy - Python Dərsləri](https://www.youtube.com/playlist?list=PLKLPk0cyfHeAKc8Jga4JZCCta4rkfwtwI)
+Python|[Mehdi Mehdizadə - Python Dərsləri](https://www.youtube.com/playlist?list=PLOJA5SN2RGBLOE7LHgI2abt9_P1c8xcvs)
+Python|[Kərim Tahiroğlu - Python Dərsləri](https://www.youtube.com/playlist?list=PLue2x3wkxo3p4nhZSkqOTbU-SvGMUYjx9)
+Python|[Leyla İbrahimxəlilova - Python Dərsləri](https://www.youtube.com/playlist?list=PLuzX_wwPfDndELVRB-_pHmYI-7jBDNEZ9)
+C++|[CodeAz - Sürətli C++ Proqramlaşdırma Dərsləri](https://www.youtube.com/playlist?list=PLHIXfE3TaUH4OumKBQFciHhekWx_CqgDS)
+C++|[Kodera - C++ Proqramlaşdırma dərsləri](https://www.youtube.com/playlist?list=PLUhhpe5duTwy0nco2txl0TZT0VtF1TbJ1)
+C++|[Əhməd Sadıxov - C++ proqramlaşdırma dili](https://www.youtube.com/watch?v=ycTKQuwcPFo&list=PL3EDCDnwr7B1DP4A2zoYzBoPzFDBapQpe)
+PHP|[EvdeKurs - PHP dərslər - Başlanğıc səviyyə](https://www.youtube.com/playlist?list=PLV7gXH9h55uZWCGU8M8xZrYUNzkAu0-yZ)
+PHP|[Şükür Hüseynovla Proqramlaşdırma - Php dərsləri](https://www.youtube.com/playlist?list=PL6dHY2lYa2z-0p0oPLFBiXWOQKVCoa6n4)
+PHP|[Program Partlayışı MGA - AZƏRİ PHP DƏRSLƏRİ](https://www.youtube.com/playlist?list=PL5gDYYVwOHD3iLkmp7AsxLkbzWBeJMAsK)
+PHP|[Feyzili Mikayıl - PHP dərsləri](https://www.youtube.com/playlist?list=PLlP5dFYHzQeK5f5NvM53wSb164LiqIYmD)
+PHP|[Elvir İbrahimli - Php Dərsləri](https://www.youtube.com/playlist?list=PLKH-yPqlpD0JSAd3W7xf4OlPPqGL5p4kE)
+Java|[Kanan Yusubov - Yeni başlayanlar üçün Java Proqramlaşdırma dərsləri](https://www.youtube.com/playlist?list=PLKLWpjPq8Lfg790IZIdq8RTpUGVIq2v7H)
+Java|[CodeAz - Yeni Başlayanlar Üçün Java Dərsləri](https://www.youtube.com/watch?v=kgLjjPuOHzs&list=PLHIXfE3TaUH6EVExugTYcET_nCAPLwwsH)
+Java|[Kodera - Java proqramlaşdırma dərsləri](https://www.youtube.com/watch?v=RI2946VhoQk&list=PLUhhpe5duTwxNDihyNVgNBWVa3EHZQiT_)
+Java|[ISBTechs - Java Dersleri Başlangıc səviyyə](https://www.youtube.com/watch?v=pIzRb9_uisw&list=PLvt3et2d91mhx4Ic12EPVTJOyJnGXf766)
+Java|[Sarkhan Rasullu - Sıfırdan Sona Java (Awesome)](https://www.youtube.com/watch?v=qgSnNh4cis0&list=PLm5YQvYcib_uS2LFXZmBkmfktBDGQ89d3)
+Java|[Samir Nəbiyev - Maraqlı Java](https://www.youtube.com/watch?v=XWKUtUZ1VkI&list=PLo20GcuUZfwjaHOZ_4ldfinGPHKzxarAR)
 
 ### Bloqlar
 - https://medium.com/@hbayramov
@@ -52,30 +76,6 @@ Python|[Python Proqramlaşdırma dili (Abdulla Qəhrəmanov, İlahə Cəfərova)
 - https://raminorucov.wordpress.com/
 - http://www.technet.az/category/proqramlasdirma
 - https://ilkaddimlar.com/dersler
-
-### Youtube
-Mövzu|Kanal/PlayList
---|--
-Python|[Developers Azerbaijan - Python Əsasları](https://www.youtube.com/playlist?list=PLOtqjSKrI5Hy3MYfLT9xUZnESj-vLHWId)
-Python|[Kodera - Python dərsləri](https://www.youtube.com/playlist?list=PLUhhpe5duTwyX6gVP54umpMYFVRRYIm1e)
-Python|[CIK Academy - Python Dərsləri](https://www.youtube.com/playlist?list=PLKLPk0cyfHeAKc8Jga4JZCCta4rkfwtwI)
-Python|[Mehdi Mehdizadə - Python Dərsləri](https://www.youtube.com/playlist?list=PLOJA5SN2RGBLOE7LHgI2abt9_P1c8xcvs)
-Python|[Kərim Tahiroğlu - Python Dərsləri](https://www.youtube.com/playlist?list=PLue2x3wkxo3p4nhZSkqOTbU-SvGMUYjx9)
-Python|[Leyla İbrahimxəlilova - Python Dərsləri](https://www.youtube.com/playlist?list=PLuzX_wwPfDndELVRB-_pHmYI-7jBDNEZ9)
-C++|[CodeAz - Sürətli C++ Proqramlaşdırma Dərsləri](https://www.youtube.com/playlist?list=PLHIXfE3TaUH4OumKBQFciHhekWx_CqgDS)
-C++|[Kodera - C++ Proqramlaşdırma dərsləri](https://www.youtube.com/playlist?list=PLUhhpe5duTwy0nco2txl0TZT0VtF1TbJ1)
-C++|[Əhməd Sadıxov - C++ proqramlaşdırma dili](https://www.youtube.com/watch?v=ycTKQuwcPFo&list=PL3EDCDnwr7B1DP4A2zoYzBoPzFDBapQpe)
-PHP|[EvdeKurs - PHP dərslər - Başlanğıc səviyyə](https://www.youtube.com/playlist?list=PLV7gXH9h55uZWCGU8M8xZrYUNzkAu0-yZ)
-PHP|[Şükür Hüseynovla Proqramlaşdırma - Php dərsləri](https://www.youtube.com/playlist?list=PL6dHY2lYa2z-0p0oPLFBiXWOQKVCoa6n4)
-PHP|[Program Partlayışı MGA - AZƏRİ PHP DƏRSLƏRİ](https://www.youtube.com/playlist?list=PL5gDYYVwOHD3iLkmp7AsxLkbzWBeJMAsK)
-PHP|[Feyzili Mikayıl - PHP dərsləri](https://www.youtube.com/playlist?list=PLlP5dFYHzQeK5f5NvM53wSb164LiqIYmD)
-PHP|[Elvir İbrahimli - Php Dərsləri](https://www.youtube.com/playlist?list=PLKH-yPqlpD0JSAd3W7xf4OlPPqGL5p4kE)
-Java|[Kanan Yusubov - Yeni başlayanlar üçün Java Proqramlaşdırma dərsləri](https://www.youtube.com/playlist?list=PLKLWpjPq8Lfg790IZIdq8RTpUGVIq2v7H)
-Java|[CodeAz - Yeni Başlayanlar Üçün Java Dərsləri](https://www.youtube.com/watch?v=kgLjjPuOHzs&list=PLHIXfE3TaUH6EVExugTYcET_nCAPLwwsH)
-Java|[Kodera - Java proqramlaşdırma dərsləri](https://www.youtube.com/watch?v=RI2946VhoQk&list=PLUhhpe5duTwxNDihyNVgNBWVa3EHZQiT_)
-Java|[ISBTechs - Java Dersleri Başlangıc səviyyə](https://www.youtube.com/watch?v=pIzRb9_uisw&list=PLvt3et2d91mhx4Ic12EPVTJOyJnGXf766)
-Java|[Sarkhan Rasullu - Sıfırdan Sona Java (Awesome)](https://www.youtube.com/watch?v=qgSnNh4cis0&list=PLm5YQvYcib_uS2LFXZmBkmfktBDGQ89d3)
-Java|[Samir Nəbiyev - Maraqlı Java](https://www.youtube.com/watch?v=XWKUtUZ1VkI&list=PLo20GcuUZfwjaHOZ_4ldfinGPHKzxarAR)
 
 
 > Bütün kitab və linklər hər kəsə açıq olan müxtəlif internet mənbələrdən toplanmışdır. Əgər hər hansı hüququnuzun pozulduğunu düşünür və ya ümumiyyətlə sizə aid heç bir mənbənin burada yayımlanmasını istəmirsinizsə [bura keçərək issue yaradın](https://github.com/Maharramoff/it-menbeler/issues/new) və ya github.maharramoff@gmail.com ünvanına yazın.
