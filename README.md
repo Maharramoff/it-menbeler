@@ -23,3 +23,31 @@ MatLab|[Kompüterlərin Mühəndislikdə Tətbiqi - Matlab (Allahverdiyeva N.R.,
 Scratch 2|[Scratch 2 Proqramlaşdırma dili, 1-ci hissə (A.Qəhrəmanov, S.Sadıqova, D.Hacıyeva, K.Rəcəbova, İ.Cəfərova)](src/books/Scratch%202.0%20Proqramlaşdırma%20Dili,%201-ci%20Hissə.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/Scratch%202.0%20Proqramlaşdırma%20Dili,%201-ci%20Hissə.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
 Scratch 2|[Scratch 2 Proqramlaşdırma dili, 2-ci hissə (A.Qəhrəmanov, S.Sadıqova, D.Hacıyeva, K.Rəcəbova, İ.Cəfərova)](src/books/Scratch%202.0%20Proqramlaşdırma%20Dili,%202-ci%20Hissə.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/Scratch%202.0%20Proqramlaşdırma%20Dili,%202-ci%20Hissə.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
 PHP|[PHP Web Proqramlaşdırma dili, 2-ci Buraxılış (Şükür Hüseynov)](src/books/PHP%20Web%20Proqramlaşdırma%20dili,%202-ci%20Buraxılış.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/PHP%20Web%20Proqramlaşdırma%20dili,%202-ci%20Buraxılış.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
+
+### Bloqlar
+- https://medium.com/@hbayramov
+- https://medium.com/@minafrzli
+- https://medium.com/@kanan.yusubov
+- https://medium.com/@aykhanhuseyn
+- https://medium.com/@nailmmmdov
+- https://medium.com/@UnityAzerbaijan
+- https://medium.com/proqramla%C5%9Fd%C4%B1rma-s%C9%99yah%C9%99ti
+- https://medium.com/@simuratli
+- https://medium.com/@ilkinguluzada
+- https://medium.com/@validakhundov
+- https://medium.com/@jahangirseven
+- https://medium.com/kodera
+- https://medium.com/@farid.b
+- https://medium.com/@emciyevabdulla
+- https://medium.com/@sarkhan.bakshaliyev
+- http://sanan.guliev.info/
+- https://www.brain2brain.net/
+- https://ilkinalibayli.com/
+- https://blogger.az/blogs/authors/33
+- http://www.kamalabdullayev.com/
+- https://pythonbook.blog/
+- https://drvspsmst.wordpress.com/category/proqramlasdirma/
+- https://codecourse.info/
+- https://keremli.com/bloq
+- https://raminorucov.wordpress.com/
+- http://www.technet.az/category/proqramlasdirma
