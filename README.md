@@ -1,4 +1,5 @@
-# Azərbaycan dilində informasiya texnologiyalarına aid müxtəlif faydalı mənbələr toplusu [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Azərbaycan dilində informasiya texnologiyalarına aid müxtəlif faydalı mənbələr toplusu
+![](https://img.shields.io/badge/Kitablar-15-orange.svg) ![](https://img.shields.io/badge/Youtube-20-red.svg) ![](https://img.shields.io/badge/Bloqlar-27-green.svg) 
 
 
 Mündəricat
