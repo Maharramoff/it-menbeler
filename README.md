@@ -11,3 +11,4 @@ Mündəricat
 
 ### Kitablar
 - [C++ ilə Obyektyönlü Proqramlaşdırma (Etibar Seyidzadə)](src/books/C++%20ilə%20Obyektyönlü%20Proqramlaşdırma.pdf)
+- [C++ Proqramlaşdırma Dili, 4-cü Buraxılış (Əhməd Sadıxov)](src/books/C++%20Proqramlaşdırma%20Dili,%204-cü%20buraxılış.pdf)
