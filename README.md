@@ -5,9 +5,8 @@ Mündəricat
 -----------------
 
 - [Kitablar](#kitablar)
-- [Videolar](#videolar)
 - [Bloqlar](#bloqlar)
-- [Dərslər](#dərslər)
+- [Youtube](#youtube)
 
 ### Kitablar
 Mövzu|Kitab|Yüklə
@@ -52,6 +51,17 @@ Python|[Python Proqramlaşdırma dili (Abdulla Qəhrəmanov, İlahə Cəfərova)
 - https://keremli.com/bloq
 - https://raminorucov.wordpress.com/
 - http://www.technet.az/category/proqramlasdirma
+- https://ilkaddimlar.com/dersler
+
+### Youtube
+Mövzu|Kanal/PlayList
+--|--
+Python|[Developers Azerbaijan - Python Əsasları](https://www.youtube.com/playlist?list=PLOtqjSKrI5Hy3MYfLT9xUZnESj-vLHWId)
+Python|[Kodera - Python dərsləri](https://www.youtube.com/playlist?list=PLUhhpe5duTwyX6gVP54umpMYFVRRYIm1e)
+Python|[CIK Academy - Python Dərsləri](https://www.youtube.com/playlist?list=PLKLPk0cyfHeAKc8Jga4JZCCta4rkfwtwI)
+Python|[Mehdi Mehdizadə - Python Dərsləri](https://www.youtube.com/playlist?list=PLOJA5SN2RGBLOE7LHgI2abt9_P1c8xcvs)
+Python|[Kərim Tahiroğlu - Python Dərsləri](https://www.youtube.com/playlist?list=PLue2x3wkxo3p4nhZSkqOTbU-SvGMUYjx9)
+Python|[Leyla İbrahimxəlilova - Python Dərsləri](https://www.youtube.com/playlist?list=PLuzX_wwPfDndELVRB-_pHmYI-7jBDNEZ9)
 
 
 > Bütün kitab və linklər hər kəsə açıq olan müxtəlif internet mənbələrdən toplanmışdır. Əgər hər hansı hüququnuzun pozulduğunu düşünür və ya ümumiyyətlə sizə aid heç bir mənbənin burada yayımlanmasını istəmirsinizsə [bura keçərək issue yaradın](https://github.com/Maharramoff/it-menbeler/issues/new) və ya github.maharramoff@gmail.com ünvanına yazın.
