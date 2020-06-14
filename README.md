@@ -52,3 +52,7 @@ Python|[Python Proqramlaşdırma dili (Abdulla Qəhrəmanov, İlahə Cəfərova)
 - https://keremli.com/bloq
 - https://raminorucov.wordpress.com/
 - http://www.technet.az/category/proqramlasdirma
+
+
+> Bütün kitab və linklər hər kəsə açıq olan müxtəlif internet mənbələrdən toplanmışdır. Əgər hər hansı hüququnuzun pozulduğunu düşünür və ya ümumiyyətlə sizə aid heç bir mənbənin burada yayımlanmasını istəmirsinizsə [bura keçərək issue yaradın](https://github.com/Maharramoff/it-menbeler/issues/new) və ya github.maharramoff@gmail.com ünvanına yazın.
+>
