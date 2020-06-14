@@ -65,6 +65,11 @@ Python|[Leyla İbrahimxəlilova - Python Dərsləri](https://www.youtube.com/pla
 C++|[CodeAz - Sürətli C++ Proqramlaşdırma Dərsləri](https://www.youtube.com/playlist?list=PLHIXfE3TaUH4OumKBQFciHhekWx_CqgDS)
 C++|[Kodera - C++ Proqramlaşdırma dərsləri](https://www.youtube.com/playlist?list=PLUhhpe5duTwy0nco2txl0TZT0VtF1TbJ1)
 C++|[Əhməd Sadıxov - C++ proqramlaşdırma dili](https://www.youtube.com/watch?v=ycTKQuwcPFo&list=PL3EDCDnwr7B1DP4A2zoYzBoPzFDBapQpe)
+PHP|[EvdeKurs - PHP dərslər - Başlanğıc səviyyə](https://www.youtube.com/playlist?list=PLV7gXH9h55uZWCGU8M8xZrYUNzkAu0-yZ)
+PHP|[Şükür Hüseynovla Proqramlaşdırma - Php dərsləri](https://www.youtube.com/playlist?list=PL6dHY2lYa2z-0p0oPLFBiXWOQKVCoa6n4)
+PHP|[Program Partlayışı MGA - AZƏRİ PHP DƏRSLƏRİ](https://www.youtube.com/playlist?list=PL5gDYYVwOHD3iLkmp7AsxLkbzWBeJMAsK)
+PHP|[Feyzili Mikayıl - PHP dərsləri](https://www.youtube.com/playlist?list=PLlP5dFYHzQeK5f5NvM53wSb164LiqIYmD)
+PHP|[Elvir İbrahimli - Php Dərsləri](https://www.youtube.com/playlist?list=PLKH-yPqlpD0JSAd3W7xf4OlPPqGL5p4kE)
 
 
 > Bütün kitab və linklər hər kəsə açıq olan müxtəlif internet mənbələrdən toplanmışdır. Əgər hər hansı hüququnuzun pozulduğunu düşünür və ya ümumiyyətlə sizə aid heç bir mənbənin burada yayımlanmasını istəmirsinizsə [bura keçərək issue yaradın](https://github.com/Maharramoff/it-menbeler/issues/new) və ya github.maharramoff@gmail.com ünvanına yazın.
