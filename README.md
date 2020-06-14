@@ -8,3 +8,6 @@ Mündəricat
 - [Videolar](#videolar)
 - [Bloqlar](#bloqlar)
 - [Dərslər](#dərslər)
+
+### Kitablar
+- [C++ ilə Obyektyönlü Proqramlaşdırma (Etibar Seyidzadə)](src/books/C++%20ilə%20Obyektyönlü%20Proqramlaşdırma.pdf)
