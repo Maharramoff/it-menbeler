@@ -70,6 +70,12 @@ PHP|[Şükür Hüseynovla Proqramlaşdırma - Php dərsləri](https://www.youtub
 PHP|[Program Partlayışı MGA - AZƏRİ PHP DƏRSLƏRİ](https://www.youtube.com/playlist?list=PL5gDYYVwOHD3iLkmp7AsxLkbzWBeJMAsK)
 PHP|[Feyzili Mikayıl - PHP dərsləri](https://www.youtube.com/playlist?list=PLlP5dFYHzQeK5f5NvM53wSb164LiqIYmD)
 PHP|[Elvir İbrahimli - Php Dərsləri](https://www.youtube.com/playlist?list=PLKH-yPqlpD0JSAd3W7xf4OlPPqGL5p4kE)
+Java|[Kanan Yusubov - Yeni başlayanlar üçün Java Proqramlaşdırma dərsləri](https://www.youtube.com/playlist?list=PLKLWpjPq8Lfg790IZIdq8RTpUGVIq2v7H)
+Java|[CodeAz - Yeni Başlayanlar Üçün Java Dərsləri](https://www.youtube.com/watch?v=kgLjjPuOHzs&list=PLHIXfE3TaUH6EVExugTYcET_nCAPLwwsH)
+Java|[Kodera - Java proqramlaşdırma dərsləri](https://www.youtube.com/watch?v=RI2946VhoQk&list=PLUhhpe5duTwxNDihyNVgNBWVa3EHZQiT_)
+Java|[ISBTechs - Java Dersleri Başlangıc səviyyə](https://www.youtube.com/watch?v=pIzRb9_uisw&list=PLvt3et2d91mhx4Ic12EPVTJOyJnGXf766)
+Java|[Sarkhan Rasullu - Sıfırdan Sona Java (Awesome)](https://www.youtube.com/watch?v=qgSnNh4cis0&list=PLm5YQvYcib_uS2LFXZmBkmfktBDGQ89d3)
+Java|[Samir Nəbiyev - Maraqlı Java](https://www.youtube.com/watch?v=XWKUtUZ1VkI&list=PLo20GcuUZfwjaHOZ_4ldfinGPHKzxarAR)
 
 
 > Bütün kitab və linklər hər kəsə açıq olan müxtəlif internet mənbələrdən toplanmışdır. Əgər hər hansı hüququnuzun pozulduğunu düşünür və ya ümumiyyətlə sizə aid heç bir mənbənin burada yayımlanmasını istəmirsinizsə [bura keçərək issue yaradın](https://github.com/Maharramoff/it-menbeler/issues/new) və ya github.maharramoff@gmail.com ünvanına yazın.
