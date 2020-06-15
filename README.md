@@ -24,6 +24,7 @@ Scratch 2|[Scratch 2 Proqramlaşdırma dili, 1-ci hissə (A.Qəhrəmanov, S.Sad�
 Scratch 2|[Scratch 2 Proqramlaşdırma dili, 2-ci hissə (A.Qəhrəmanov, S.Sadıqova, D.Hacıyeva, K.Rəcəbova, İ.Cəfərova)](src/books/Scratch%202.0%20Proqramlaşdırma%20Dili,%202-ci%20Hissə.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/Scratch%202.0%20Proqramlaşdırma%20Dili,%202-ci%20Hissə.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
 PHP|[PHP Web Proqramlaşdırma dili, 2-ci Buraxılış (Şükür Hüseynov)](src/books/PHP%20Web%20Proqramlaşdırma%20dili,%202-ci%20Buraxılış.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/PHP%20Web%20Proqramlaşdırma%20dili,%202-ci%20Buraxılış.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
 Python|[Python Proqramlaşdırma dili (Abdulla Qəhrəmanov, İlahə Cəfərova)](src/books/Python%20Proqramlaşdırma%20Dili.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/Python%20Proqramlaşdırma%20Dili.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
+Java|[Sertifikat Qeydlərim (Müşfiq Məmmədov)](src/books/Sertifikat%20Qeydlərim.pdf)|<a href="https://github.com/Maharramoff/it-menbeler/raw/master/src/books/Sertifikat%20Qeydlərim.pdf"><img src="https://img.shields.io/badge/PDF-Y%C3%9CKL%C6%8F-255%2C%20202%2C%2053" valign="middle"></a>
 
 ### Youtube
 Mövzu|Kanal/PlayList
@@ -78,6 +79,7 @@ Java|[Samir Nəbiyev - Maraqlı Java](https://www.youtube.com/watch?v=XWKUtUZ1Vk
 - http://www.technet.az/category/proqramlasdirma
 - https://ilkaddimlar.com/dersler
 - https://nicat.org
+- https://www.mycertnotes.com/
 
 
 > Bütün kitab və linklər hər kəsə açıq olan müxtəlif internet mənbələrdən toplanmışdır. Əgər hər hansı hüququnuzun pozulduğunu düşünür və ya ümumiyyətlə sizə aid heç bir mənbənin burada yayımlanmasını istəmirsinizsə [bura keçərək issue yaradın](https://github.com/Maharramoff/it-menbeler/issues/new) və ya github.maharramoff@gmail.com ünvanına yazın.
