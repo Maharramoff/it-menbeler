@@ -1,5 +1,5 @@
 # Azərbaycan dilində informasiya texnologiyalarına aid müxtəlif faydalı mənbələr toplusu
-![](https://img.shields.io/badge/Kitablar-15-orange.svg) ![](https://img.shields.io/badge/Youtube-20-red.svg) ![](https://img.shields.io/badge/Bloqlar-28-green.svg) 
+![](https://img.shields.io/badge/Kitablar-16-orange.svg) ![](https://img.shields.io/badge/Youtube-20-red.svg) ![](https://img.shields.io/badge/Bloqlar-29-green.svg) 
 
 
 Mündəricat
