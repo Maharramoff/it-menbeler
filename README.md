@@ -1,5 +1,5 @@
 # Azərbaycan dilində informasiya texnologiyalarına aid müxtəlif faydalı mənbələr toplusu
-![](https://img.shields.io/badge/Kitablar-16-orange.svg) ![](https://img.shields.io/badge/Youtube-20-red.svg) ![](https://img.shields.io/badge/Bloqlar-31-green.svg) 
+![](https://img.shields.io/badge/Kitablar-16-orange.svg) ![](https://img.shields.io/badge/Youtube-20-red.svg) ![](https://img.shields.io/badge/Bloqlar-32-green.svg) 
 
 
 Mündəricat
@@ -67,6 +67,7 @@ Java|[Samir Nəbiyev - Maraqlı Java](https://www.youtube.com/watch?v=XWKUtUZ1Vk
 - https://medium.com/@emciyevabdulla
 - https://medium.com/@sarkhan.bakshaliyev
 - https://medium.com/@ksamedov1998
+- https://medium.com/@elekberheyderov
 - https://www.linkedin.com/in/anargurbanli/detail/recent-activity/posts/
 - http://sanan.guliev.info/
 - https://www.brain2brain.net/
