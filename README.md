@@ -1,5 +1,5 @@
 # Azərbaycan dilində informasiya texnologiyalarına aid müxtəlif faydalı mənbələr toplusu
-![](https://img.shields.io/badge/Kitablar-16-orange.svg) ![](https://img.shields.io/badge/Youtube-20-red.svg) ![](https://img.shields.io/badge/Bloqlar-39-green.svg) 
+![](https://img.shields.io/badge/Kitablar-16-orange.svg) ![](https://img.shields.io/badge/Youtube-20-red.svg) ![](https://img.shields.io/badge/Bloqlar-40-green.svg) 
 
 
 Mündəricat
@@ -90,6 +90,7 @@ Java|[Samir Nəbiyev - Maraqlı Java](https://www.youtube.com/watch?v=XWKUtUZ1Vk
 - https://nicat.org
 - https://www.mycertnotes.com/
 - https://muzefferpasazade.wordpress.com/
+- https://ieldaniz.az/
 
 
 > Bütün kitab və linklər hər kəsə açıq olan müxtəlif internet mənbələrdən toplanmışdır. Əgər hər hansı hüququnuzun pozulduğunu düşünür və ya ümumiyyətlə sizə aid heç bir mənbənin burada yayımlanmasını istəmirsinizsə [bura keçərək issue yaradın](https://github.com/Maharramoff/it-menbeler/issues/new) və ya github.maharramoff@gmail.com ünvanına yazın.
