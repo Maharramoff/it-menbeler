@@ -82,7 +82,7 @@ Java|[Samir Nəbiyev - Maraqlı Java](https://www.youtube.com/watch?v=XWKUtUZ1Vk
 - http://www.kamalabdullayev.com/
 - https://pythonbook.blog/
 - https://drvspsmst.wordpress.com/category/proqramlasdirma/
-- https://codecourse.info/
+- https://vebkurs.info/
 - https://keremli.com/bloq
 - https://raminorucov.wordpress.com/
 - http://www.technet.az/category/proqramlasdirma
